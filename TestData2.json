@@ -1,0 +1,38 @@
+[
+  {
+    "id": "31",
+    "question": "A farmer has 17 sheep and all but nine die, How many are left?",
+    "answer": "Nine",
+    "a": "None",
+    "b": "Eight",
+    "c": "Seventeen",
+    "d": "Nine"
+  },
+  {
+    "id": "32",
+    "question": "What come once in a minute, twice in a moment, but never in a thousand years?",
+    "answer": "The letter M",
+    "a": "The letter Years",
+    "b": "The letter M",
+    "c": "The letter N",
+    "d": "The letter T"
+  },
+  {
+    "id": "33",
+    "question": "If you drop a white hat into the red sea, what does it become?",
+    "answer": "Wet",
+    "a": "Red",
+    "b": "Reddish White",
+    "c": "White Red",
+    "d": "Wet"
+  },
+  {
+    "id": "34",
+    "question": "What can travel around the world while staying in a corner?",
+    "answer": "Postage Stamp",
+    "a": "Morning Sun",
+    "b": "Your Shadow",
+    "c": "Postage Stamp",
+    "d": "Nothing"
+  }
+]
